@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = toni.panacek@gmail.com
+	email = null
 	name = Toni Panacek
